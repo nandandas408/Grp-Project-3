@@ -1,0 +1,25 @@
+/*about us section here*/
+
+.heading-line {
+    height: 3px;
+    width: 8%;
+    background: red;
+    margin-top: -20px;
+    margin-bottom: 1rem;
+}
+
+.heading-line1 {
+    color: green;
+}
+
+.text {
+    text-align: center;
+}
+
+.img-fluid3 {
+    width: 100px;
+    height: 100px;
+    align-self: center;
+    border-radius: 55px;
+    border: 2px solid green;
+}

@@ -1,0 +1,32 @@
+.service-page {
+    background-color: mediumseagreen;
+}
+
+.text-container {
+    text-align: center;
+    color: oldlace;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 100px;
+}
+
+.img-fluid1 {
+    height: 50vh;
+}
+
+#para {
+    font-size: 1.875em;
+    text-align: center;
+    color: mediumseagreen;
+}
+
+input {
+    background-color: green;
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: oldlace;
+}
+
+.card {
+    font-size: 21px;
+}
